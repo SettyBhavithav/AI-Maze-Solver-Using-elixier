@@ -78,3 +78,5 @@
 # created initial elixir project for maze solver
 
 # created initial elixir mix project structure for maze solver
+
+# added random wall removal logic to create valid maze paths
