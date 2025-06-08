@@ -74,3 +74,5 @@
 # implemented DFS depth first search maze solver algorithm
 
 # created CLI module parser to accept matrix dimensions from terminal
+
+# implemented BFS breadth first search for finding shortest path
