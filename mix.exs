@@ -74,3 +74,5 @@
 # implemented DFS depth first search maze generation algorithm
 
 # added path distance calculator measuring total steps taken
+
+# formatted elixir code using mix format
