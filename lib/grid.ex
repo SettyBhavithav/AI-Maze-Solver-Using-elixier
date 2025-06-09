@@ -78,3 +78,5 @@
 # built maze ASCII renderer for terminal visualization
 
 # added priority queue module for A star node evaluation
+
+# added unit tests for BFS shortest path correctness
