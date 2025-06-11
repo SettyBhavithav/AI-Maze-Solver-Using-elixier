@@ -84,3 +84,5 @@
 # implemented A star heuristic solver using Manhattan distance
 
 # added unit tests for maze grid boundary checking
+
+# optimized matrix lookup time using elixir Map structure
