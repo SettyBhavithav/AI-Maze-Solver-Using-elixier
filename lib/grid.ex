@@ -80,3 +80,5 @@
 # added priority queue module for A star node evaluation
 
 # added unit tests for BFS shortest path correctness
+
+# added CSV file loader for custom prebuilt maze layouts
