@@ -80,3 +80,5 @@
 # added color terminal output using ANSI escape sequences
 
 # created execution benchmark comparison table in docs
+
+# cleaned up temporary benchmark log files
