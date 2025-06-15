@@ -84,3 +84,5 @@
 # added CSV file loader for custom prebuilt maze layouts
 
 # refactored maze solver supervisor for concurrent path finding
+
+# created initial elixir mix project structure for maze solver
