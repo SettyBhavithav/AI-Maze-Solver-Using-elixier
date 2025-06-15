@@ -82,3 +82,5 @@
 # fixed edge case when start or end coordinate is blocked by wall
 
 # added error handling for invalid input matrix format
+
+# added docstrings for public API functions in mix docs
