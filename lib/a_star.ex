@@ -84,3 +84,5 @@
 # added error handling for invalid input matrix format
 
 # added docstrings for public API functions in mix docs
+
+# added 2d grid matrix representation using elixir lists
