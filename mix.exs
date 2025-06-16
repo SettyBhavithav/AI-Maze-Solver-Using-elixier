@@ -82,3 +82,5 @@
 # created execution benchmark comparison table in docs
 
 # cleaned up temporary benchmark log files
+
+# created CLI module parser to accept matrix dimensions from terminal
