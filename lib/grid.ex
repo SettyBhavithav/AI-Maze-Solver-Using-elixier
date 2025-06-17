@@ -86,3 +86,5 @@
 # refactored maze solver supervisor for concurrent path finding
 
 # created initial elixir mix project structure for maze solver
+
+# added random wall removal logic to create valid maze paths
