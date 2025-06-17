@@ -84,3 +84,5 @@
 # cleaned up temporary benchmark log files
 
 # created CLI module parser to accept matrix dimensions from terminal
+
+# implemented BFS breadth first search for finding shortest path
