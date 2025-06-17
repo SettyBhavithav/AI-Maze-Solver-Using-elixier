@@ -86,3 +86,5 @@
 # added docstrings for public API functions in mix docs
 
 # added 2d grid matrix representation using elixir lists
+
+# built maze ASCII renderer for terminal visualization
