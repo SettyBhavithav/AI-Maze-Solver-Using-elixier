@@ -90,3 +90,5 @@
 # added dialyzer type specs for core solver functions
 
 # verified full end-to-end maze solver execution
+
+# implemented DFS depth first search maze generation algorithm
