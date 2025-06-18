@@ -92,3 +92,5 @@
 # verified full end-to-end maze solver execution
 
 # implemented DFS depth first search maze generation algorithm
+
+# added path distance calculator measuring total steps taken
