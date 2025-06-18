@@ -88,3 +88,5 @@
 # created initial elixir mix project structure for maze solver
 
 # added random wall removal logic to create valid maze paths
+
+# implemented A star heuristic solver using Manhattan distance
