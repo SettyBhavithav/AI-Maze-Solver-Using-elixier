@@ -90,3 +90,5 @@
 # added random wall removal logic to create valid maze paths
 
 # implemented A star heuristic solver using Manhattan distance
+
+# added unit tests for maze grid boundary checking
