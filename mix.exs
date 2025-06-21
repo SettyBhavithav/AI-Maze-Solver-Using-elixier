@@ -88,3 +88,5 @@
 # implemented BFS breadth first search for finding shortest path
 
 # benchmarked execution time between DFS BFS and A star algorithms
+
+# fixed edge case when start or end coordinate is blocked by wall
