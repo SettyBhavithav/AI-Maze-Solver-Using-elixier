@@ -96,3 +96,5 @@
 # added path distance calculator measuring total steps taken
 
 # formatted elixir code using mix format
+
+# added color terminal output using ANSI escape sequences
