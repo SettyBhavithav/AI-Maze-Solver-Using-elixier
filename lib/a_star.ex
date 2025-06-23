@@ -94,3 +94,5 @@
 # added unit tests for BFS shortest path correctness
 
 # added CSV file loader for custom prebuilt maze layouts
+
+# refactored maze solver supervisor for concurrent path finding
