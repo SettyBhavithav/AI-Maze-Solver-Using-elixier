@@ -94,3 +94,5 @@
 # added unit tests for maze grid boundary checking
 
 # optimized matrix lookup time using elixir Map structure
+
+# added dialyzer type specs for core solver functions
