@@ -1,5 +1,5 @@
 <div align="center">
-🔒 License & Copyright
+**🔒 License & Copyright**
 
 **Copyright © 2026 Setty Bhavithav. All Rights Reserved.**
 
